@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+header#chakra-modal--header-drawerContainer {
+  margin-top: 50px;
+}
+.photoContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.photoBox{
+  align-self: center;
+}
+.photoThumbnail{
+  margin: 0.5rem;
+}
